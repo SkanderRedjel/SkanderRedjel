@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skanderredjel&label=Profile%20views&color=0e75b6&style=flat" alt="skanderredjel" /> </p>
 
-- :construction: I’m currently working on **building IaaC business projects and CI/CI workflow improvment**
+- :construction: I’m currently working on **building IaaC business projects and CI/CD workflow improvment**
 
 - :fire: I’m currently learning **Kubernetes & Mimir**
 
