@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skanderredjel&label=Profile%20views&color=0e75b6&style=flat" alt="skanderredjel" /> </p>
 
-- :construction: I’m currently working on **building IaaC business projects and CI/CD workflow improvment**
+- :construction: I’m currently working on **Containers, building IaaC business projects and CI/CD workflow improvment**
 
-- :fire: I’m currently learning **Kubernetes & Mimir**
+- :fire: I’m currently learning **Mimir**
 
 - :bulb: Ask me about `AWS`, `Azure`, `Terraform`, `Gitlab`, `Ansible`, `MySQL`, `SQL`, `Bash`, `Python`, `Grafana`, `Metrics & Logs`, `Scrum`, `LAMP`, `MEAN`.
 - 📫 How to reach me : **skander.redjel@gmail.com**
